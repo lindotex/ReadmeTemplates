@@ -3,25 +3,25 @@
 [BADGES_FRONT__BADGE]: https://img.shields.io/badge/W/_Badges_Frontend-000?style=for-the-badge&logo=badge
 [BADGES_BACK__BADGE]: https://img.shields.io/badge/W/_Badges_Backend-000?style=for-the-badge&logo=badge
 
-<p align="center">
-    <img src="./.github/logo.png" width="200px">
-</p>
+![ ](image.png)
+<img src='https://img.shields.io/github/license/lindotex/ReadmeTemplates'/>
+<img src='https://img.shields.io/github/forks/lindotex/ReadmeTemplates.svg'/>
 
-<p align="center">
-<b>This repository provides a series of README templates to help developers document their projects 🚀👩‍💻</b>
-</p>
+<b>👩‍💻  This repository provides a series of README templates to help developers document their projects </b>
 
-<h2 id="templates">📝 Templates</h2>
+
+<h2 id="templates">📝  .md Template</h2>
 
 [![backend-simple][SIMPLE_BACK__BADGE]](./WithoutBadges/back.md)
-
 [![frontend-simple][SIMPLE_FRONT__BADGE]](./WithoutBadges/front.md)
-
 [![frontend-badges][BADGES_FRONT__BADGE]](./WithBadges/front.md)
-
 [![backend-badges][BADGES_BACK__BADGE]](./WithBadges/back.md)
 
-<h2 id="contribute">Contribute 🚀</h2>
+<h2 id="contribute">Badges Templates</h2>
+
+[![badges][BADGES_BACK__BADGE]](./WithBadges/back.md)
+
+<h2 id="contribute">Contribute </h2>
 
 If you want to contribute, clone this repo, create your work branch and get your hands dirty!
 
