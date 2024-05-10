@@ -19,7 +19,7 @@
 
 <h2 id="contribute">Badges Templates</h2>
 
-[![badges][BADGES_BACK__BADGE]](./WithBadges/back.md)
+<a href='./BadgesList/Badges.md'><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> 
 
 <h2 id="contribute">Contribute </h2>
 
